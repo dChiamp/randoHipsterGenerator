@@ -1,0 +1,15 @@
+body {
+	font-family: "Century Gothic", "sans-serif";
+	font-size: 2em;
+}
+#wrap {
+	width: 800px;
+	margin: 0 auto;
+}
+img {
+	width: 750px;
+	height: 270px;
+	margin: 0 auto;
+	padding: 0;
+	cursor: pointer;
+}
